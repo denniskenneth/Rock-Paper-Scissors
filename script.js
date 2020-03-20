@@ -1,5 +1,5 @@
 //ALERT THE USER HOW THE GAME WORKS
-alert('This is a rock, paper, scissors game. It runs for 5 rounds click OK to continue');
+alert('This is a rock, paper, scissors game that runs on the console. It runs for 5 rounds click OK to continue');
 
 // FUNCTION THAT RANDOMLY RETURNS ROCK, PAPER OR SCISSORS
 function computerPlay() {
